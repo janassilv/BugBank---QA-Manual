@@ -1,0 +1,45 @@
+# Portfólio de QA
+
+Bem-vindo(a) ao meu portfólio de qualidade de software! Este repositório contém diversos projetos e exemplos de testes que eu desenvolvi durante minha jornada como analista de QA. Aqui você vai encontrar uma coleção de testes manuais, automatizados e outras contribuições relevantes à área de qualidade de software.
+
+## Sobre Mim
+
+Sou Janayna Silva, uma analista de QA apaixonada por garantir que os produtos entregues aos usuários estejam livres de falhas. Com a certificação CTFL (Certified Tester Foundation Level), minha experiência inclui:
+
+- Testes manuais e automatizados
+- Testes de regressão, funcionalidade e usabilidade
+- Documentação de casos de testes
+- Ferramentas de automação como Cypress e Playwright
+- Metodologias ágeis (Scrum, Kanban)
+- Reporte e análise de bugs
+
+## Estrutura do Repositório
+
+Este repositório contém as seguintes pastas e arquivos:
+
+- **Testes Manuais**: Exemplos de casos de testes manuais realizados.
+- **Testes Automatizados**: Scripts de automação utilizando ferramentas como Selenium e Postman.
+- **Documentação**: Guias, relatórios de bugs e estratégias de teste.
+- **Exemplos de Projetos**: Projetos de QA em que trabalhei ou contribuí, incluindo explicações detalhadas sobre a abordagem de testes utilizada.
+
+## Como Usar
+
+1. Clone este repositório para o seu ambiente local:
+
+   ```bash
+   git clone https://github.com/seu-usuario/qa-portfolio.git
+   ```
+
+2. Acesse a pasta desejada e veja os arquivos de exemplo.
+
+3. Para executar os testes automatizados, siga as instruções em cada subpasta, que normalmente contêm um arquivo `README.md` com orientações específicas.
+
+## Ferramentas Utilizadas
+
+- Cypress: Testes de interface de usuário de forma rápida e fácil, com suporte a testes end-to-end.
+- Playwright: Testes de navegação e interação de alta performance para aplicações web.
+- GitHub Actions: Integração contínua (CI) para execução de testes.
+
+## Contribuições
+
+Sinta-se à vontade para contribuir para este repositório! Se você deseja sugerir melhorias ou adicionar novos testes, basta criar um pull request.
